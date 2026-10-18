@@ -19,6 +19,8 @@ data/raw/
 # 실행마다 생성되는 결과 CSV
 data/processed/
 # 배포 가능한 고정 샘플은 추적한다 (data/sample/ 은 제외하지 않음)
+# 교차 검토용 전달 자료(제목·본문 없음)는 추적한다. 비공개 저장소 전제이며
+# 공개로 바꾸기 전에 지운다 (data/exchange/README.md)
 
 # ── 실행 기록·로그 ──
 logs/

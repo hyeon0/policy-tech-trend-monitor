@@ -1,0 +1,55 @@
+document_id,keyword_id,keyword,matched_terms,occurrences,dictionary_version
+policy-04dab8d88dda,K016,클라우드,"[""cloud""]",1,v1
+policy-053fd0b7f056,K016,클라우드,"[""Cloud""]",1,v1
+policy-070a8c60eeaa,K001,인공지능,"[""인공지능""]",4,v1
+policy-0945f0ff329e,K001,인공지능,"[""인공지능""]",6,v1
+policy-0e0f5c3369b4,K001,인공지능,"[""AI""]",7,v1
+policy-10d8b7c27ddf,K010,로봇,"[""로봇"",""로보틱스""]",5,v1
+policy-152ac5cee93d,K001,인공지능,"[""인공지능"",""AI""]",3,v1
+policy-152ac5cee93d,K031,확장현실,"[""XR""]",3,v1
+policy-2d24e1ca473c,K001,인공지능,"[""인공지능""]",7,v1
+policy-310e2353183b,K001,인공지능,"[""인공지능""]",1,v1
+policy-310e2353183b,K019,AI 반도체,"[""인공지능 반도체""]",3,v1
+policy-37de0e420a5f,K018,반도체,"[""반도체""]",3,v1
+policy-3875eca1ca8a,K001,인공지능,"[""인공지능"",""AI""]",9,v1
+policy-38cd068cf14b,K001,인공지능,"[""인공지능""]",1,v1
+policy-38cd068cf14b,K019,AI 반도체,"[""인공지능 반도체""]",3,v1
+policy-3a93e899d295,K001,인공지능,"[""인공지능"",""AI""]",13,v1
+policy-4c9633bbd310,K021,양자컴퓨팅,"[""양자컴퓨터""]",2,v1
+policy-5314b71a4459,K018,반도체,"[""반도체""]",5,v1
+policy-5314b71a4459,K019,AI 반도체,"[""인공지능 반도체""]",2,v1
+policy-5b5de41a3e6a,K018,반도체,"[""반도체""]",1,v1
+policy-629206d9ebcc,K001,인공지능,"[""인공지능""]",4,v1
+policy-629206d9ebcc,K011,피지컬 AI,"[""피지컬 AI""]",4,v1
+policy-6941eedd41af,K001,인공지능,"[""AI""]",1,v1
+policy-71927818bb1d,K018,반도체,"[""반도체""]",4,v1
+policy-8d14cf0982eb,K001,인공지능,"[""AI""]",1,v1
+policy-8d14cf0982eb,K016,클라우드,"[""cloud""]",1,v1
+policy-8d14cf0982eb,K021,양자컴퓨팅,"[""Quantum Computing"",""quantum computers""]",2,v1
+policy-9db1e4a3e922,K001,인공지능,"[""인공지능"",""AI""]",10,v1
+policy-9db1e4a3e922,K016,클라우드,"[""클라우드""]",3,v1
+policy-a10e9f2333d8,K001,인공지능,"[""AI""]",1,v1
+policy-a5715a22a801,K001,인공지능,"[""인공지능""]",7,v1
+policy-a5715a22a801,K011,피지컬 AI,"[""피지컬 AI""]",7,v1
+policy-ab1b245aa9e1,K001,인공지능,"[""인공지능""]",4,v1
+policy-ab1b245aa9e1,K011,피지컬 AI,"[""피지컬 AI""]",1,v1
+policy-ab1b245aa9e1,K013,온디바이스 AI,"[""온디바이스 AI""]",1,v1
+policy-c9800d29884b,K018,반도체,"[""반도체""]",1,v1
+policy-ccac7ed4f9fd,K021,양자컴퓨팅,"[""양자컴퓨터""]",2,v1
+policy-dba7157a1c66,K016,클라우드,"[""cloud computing""]",1,v1
+policy-dba7157a1c66,K018,반도체,"[""semiconductor""]",2,v1
+policy-dba7157a1c66,K046,슈퍼컴퓨팅,"[""supercomputer""]",1,v1
+policy-e06d98f4a874,K001,인공지능,"[""AI""]",6,v1
+policy-e06d98f4a874,K038,디지털 전환,"[""digital transformation""]",1,v1
+policy-e288db6f23c6,K001,인공지능,"[""인공지능""]",2,v1
+policy-e288db6f23c6,K010,로봇,"[""로봇""]",1,v1
+policy-e288db6f23c6,K011,피지컬 AI,"[""피지컬 AI""]",2,v1
+policy-e4c6c5d2aa1d,K001,인공지능,"[""AI""]",1,v1
+policy-e4c6c5d2aa1d,K016,클라우드,"[""cloud""]",1,v1
+policy-e4c6c5d2aa1d,K021,양자컴퓨팅,"[""quantum computer""]",1,v1
+policy-eed6aeb8ce72,K001,인공지능,"[""AI""]",4,v1
+policy-eed6aeb8ce72,K004,AI 에이전트,"[""AI Agents"",""AI agents""]",6,v1
+policy-f9f790955ce1,K033,빅데이터,"[""빅데이터""]",1,v1
+policy-fbf5fb420294,K001,인공지능,"[""인공지능""]",2,v1
+policy-fd9f23dcd2ee,K001,인공지능,"[""인공지능""]",2,v1
+policy-fd9f23dcd2ee,K011,피지컬 AI,"[""피지컬 AI""]",2,v1
