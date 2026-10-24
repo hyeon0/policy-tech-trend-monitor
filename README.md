@@ -22,6 +22,14 @@
 
 ---
 
+## 소개 영상 (3분 54초)
+
+[![도구 소개 영상 — 첫 화면](docs/media/intro_thumb.jpg)](https://hyeon0.github.io/policy-tech-trend-monitor/media/intro.mp4)
+
+**[▶ 영상 보기](https://hyeon0.github.io/policy-tech-trend-monitor/media/intro.mp4)** · [GitHub에서 열기](docs/media/intro.mp4)
+
+이 도구를 왜 만들었는지, 어떻게 쓰는지, 디지털·ICT 관심 주제에 어떻게 쓸 수 있는지, 고친 부분과 써 보니 아쉬운 점을 직접 녹음해 설명합니다. 영상 속 화면은 직접 수집한 자료로 만든 대시보드이며, 공개 가능한 범위의 제목과 집계값만 보입니다.
+
 ## 데모로 먼저 보기
 
 - 샘플 데이터로 만든 데모 대시보드: [`docs/index.html`](docs/index.html) (GitHub Pages로 공개하면 `https://<사용자>.github.io/policy-tech-trend-monitor/`). 제목·출처·숫자는 모두 지어낸 합성 자료이며 `python src/build_demo.py`로 다시 만듭니다.
